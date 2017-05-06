@@ -1,0 +1,13 @@
+<!--pages/more/more.wxml-->
+<view class="page-more">
+    <view   wx:for="{{items}}" 
+            wx:for-item="item"
+            class="food-box">
+        <text class="title2">{{item.title}}</text>
+        <text class="content">{{item.content}}</text>
+    </view>
+
+    <view>
+        <text>-------数据来源于日食记</text>
+    </view>
+</view>

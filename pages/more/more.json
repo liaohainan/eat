@@ -1,0 +1,8 @@
+{
+    "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "查看更多",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,34 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="top">
+    <view  bindtap="bindViewTap" class="userinfo">
+      <image  class="userinfo-avatar" 
+              src="{{userInfo.avatarUrl}}"
+              background-size="cover">
+      </image>
+      <text class="userinfo-nickname">{{userInfo.nickName}},你好</text>
+      <text class="mes-h2">作为一个吃货，还是一个选择困难症</text>
+      <text class="mes-h2">我还挺骄傲的</text>
+    </view>
+    <view class="food-view">
+      <text class="food">{{food}}</text>
+    </view>
+  </view>
+  
+  <view>
+    <text class="middle-mes">不知道吃什么</text>
+  </view>
+  
+
+  <view>
+    <div  bindtap="eatWhat" 
+          class="eat-btn">{{eatBtn}}
+    </div>
+  </view>
+  
+  <view class="usermotto">
+    <div class="eat-btn" bindtap="toMore">{{motto}}</div>
+  </view>
+
+
+</view>

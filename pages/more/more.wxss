@@ -1,0 +1,25 @@
+.page-more{
+    padding:30rpx 30rpx;
+}
+.food-box{
+    margin-bottom:30rpx;
+    width:100%;
+    height:auto;
+
+}
+.title2{
+    display: block;
+    height:100rpx;
+    line-height: 100rpx;
+    padding-left:30rpx;
+    margin-bottom:30rpx;
+    color:#fff;
+    background-color: #9A4589;
+    border-radius: 10rpx;
+}
+.content{
+    line-height: 40rpx;
+    font-size:26rpx;
+    color:#9A4589;
+
+}
