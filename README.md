@@ -2,4 +2,4 @@
 
 
 
-![](./share-qr.img)
+![](./share-qr.jpg)
