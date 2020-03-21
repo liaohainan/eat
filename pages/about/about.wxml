@@ -1,0 +1,18 @@
+<view class="imageC image_1">
+    <image src="https://www.nanyanyuyu.com/images/head.jpg"></image>
+</view>
+<view class="boxC box_1"></view>
+<view class="imageC image_2"><image 
+src="https://www.nanyanyuyu.com/images/head.jpg"></image></view>
+
+<view class="wrapperC wrapper_1">
+	<view class="boxC box_9"></view>
+	
+<view class="imageC image_3"><image 
+	src="https://www.nanyanyuyu.com/images/head.jpg"></image></view>
+	<view class="textC hL text_7"><text class="text-content">糖小面儿</text></view>
+	
+	<view class="textC hL text_5"><text class="text-content">说起糖来，实在是让人又爱又恨，爱是因为这娃性格太好，恨是让你认识了就不想离开....</text></view>
+	
+</view>
+<view class="mail">联系邮箱:nan@nan126.com</view>

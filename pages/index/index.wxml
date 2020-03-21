@@ -32,3 +32,6 @@
 
 
 </view>
+<view class="about {{aboutClassName}}" bindtap="aboutJump">
+  <text>关于</text>
+</view>
